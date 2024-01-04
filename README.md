@@ -17,13 +17,13 @@ The Backblaze adapter gives the possibility to use the Flysystem filesystem abst
 Via Composer
 
 ``` bash
-$ composer require mhetreramesh/flysystem-backblaze
+$ composer require gwhizoftv/flysystem-backblaze
 ```
 
 ## Usage
 
 ``` php
-use Mhetreramesh\Flysystem\BackblazeAdapter;
+use gwhizoftv\Flysystem\BackblazeAdapter;
 use League\Flysystem\Filesystem;
 use BackblazeB2\Client;
 
